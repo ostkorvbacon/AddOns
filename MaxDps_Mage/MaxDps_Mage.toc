@@ -1,0 +1,13 @@
+## Title: MaxDps_Mage
+## Version: 9.0.0
+## Author: Kaminaris
+## Interface: 90001
+## Dependencies: MaxDps
+## LoadOnDemand: 1
+## X-Curse-Project-ID: 99327
+## X-WoWI-ID: 24643
+
+Main.lua
+Specialization/Arcane.lua
+Specialization/Frost.lua
+Specialization/Fire.lua
