@@ -167,7 +167,6 @@ AUCTIONATOR_LOCALES.enUS = function()
   L["RESULTS_AVAILABLE_COLUMN"] = "Available"
   L["ITEM_LEVEL_COLUMN"] = "Item Level"
   L["OWNED_COLUMN"] = "Owned?"
-  L["IS_TOP_COLUMN"] = "Top?"
 
   L["FULL_SCAN_BUTTON"] = "Full Scan"
 
@@ -241,6 +240,11 @@ AUCTIONATOR_LOCALES.enUS = function()
 
   L["SPLASH_902_FEATURES_HEADER"] = "New Features"
   L["SPLASH_902_FEATURES_1"] = "A new \"Your History\" section on the Selling tab to show the prices of past auctions you have created."
+  L["SPLASH_903_DESCRIPTION"] = "One bugfix, and a couple of new features."
+
+  L["SPLASH_903_FEATURES_HEADER"] = "Features"
+  L["SPLASH_903_FEATURES_1"] = "A new \"Export Results\" button has been added to the Shopping tab to export the current search results in CSV format, suitable for importing into Excel."
+  L["SPLASH_903_FEATURES_2"] = "Favourite items in the Selling tab now stay visible even if they are no longer in your bag. This update resets your favourites list."
 
   L["SPLASH_HIDE_MESSAGE"] = "Do not show until next update"
 
@@ -354,6 +358,9 @@ AUCTIONATOR_LOCALES.enUS = function()
   L["CONFIG_SELLING_AUTO_SELECT_NEXT"] = "Automatically select the next item in your bag"
   L["CONFIG_SELLING_AUTO_SELECT_NEXT_TOOLTIP_HEADER"] = "Automatic item selection"
   L["CONFIG_SELLING_AUTO_SELECT_NEXT_TOOLTIP_TEXT"] = "When posting automatically select the next item in the bag view."
+  L["CONFIG_SELLING_MISSING_FAVOURITES"] = "Always show favourite items, including when not in your bag."
+  L["CONFIG_SELLING_MISSING_FAVOURITES_TOOLTIP_HEADER"] = "Missing favourites visible"
+  L["CONFIG_SELLING_MISSING_FAVOURITES_TOOLTIP_TEXT"] = "Show favourite items in the bag view even when they aren't in your bag."
   L["CONFIG_BAG"] = "Bag"
 
   L["HIDE"] = "Hide"
@@ -393,6 +400,7 @@ AUCTIONATOR_LOCALES.enUS = function()
   L["TOTAL_ON_SALE"] = "Total on sale: %s"
   L["REALM_HISTORY"] = "Realm History"
   L["YOUR_HISTORY"] = "Your History"
+  L["EXPORT_RESULTS"] = "Export Results"
 
   return L
 end

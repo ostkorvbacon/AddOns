@@ -1,34 +1,136 @@
-lightweight tag 11ce1ecd18f817413140d629ae78ac289ef348fd Plater-v9.0.1.321-Retail
+lightweight tag 8afbe7a781b93d6c659d8dc9a2c1f9f300bc1dc2 Plater-v9.0.1.322-Retail
 Author:	Continuity <continuity@gmx.net>
-Date:	Sat Nov 28 14:25:46 2020 +0100
+Date:	Tue Dec 22 19:48:24 2020 +0100
 
-commit 11ce1ecd18f817413140d629ae78ac289ef348fd
+commit 8afbe7a781b93d6c659d8dc9a2c1f9f300bc1dc2
 Author: Continuity <continuity@gmx.net>
-Date:   Sat Nov 28 14:25:46 2020 +0100
+Date:   Tue Dec 22 19:48:24 2020 +0100
 
     - changelog update
 
-commit 12b4113e6b9342a09d7e83e70d5548ba6d6e05f0
+commit d9c4659bb96e90d63d37728d835df3f13951e41b
 Author: Continuity <continuity@gmx.net>
-Date:   Sat Nov 28 14:19:36 2020 +0100
+Date:   Tue Dec 22 18:34:40 2020 +0100
 
-    - one las condemn
+    - siwtching CC tracking to spellIDs
 
-commit 860639cdffeddcef2aa356db5b4475df07281531
+commit 875b39f32d9005d96e9373b001273eda48c2100f
+Author: Continuity <continuity@gmx.net>
+Date:   Tue Dec 22 18:34:24 2020 +0100
+
+    - DF lib update
+
+commit 211b092148577c026bb1df581e0a9b33a369700e
+Author: Continuity <continuity@gmx.net>
+Date:   Sun Dec 20 21:01:02 2020 +0100
+
+    - tooltip clarification
+
+commit 211b092148577c026bb1df581e0a9b33a369700e
+Author: Continuity <continuity@gmx.net>
+Date:   Sun Dec 20 21:01:02 2020 +0100
+
+    - tooltip clarification
+
+commit b3e03c6f941d5d8c27b2c3c5f3ad79a7a37708a2
+Author: Continuity <continuity@gmx.net>
+Date:   Sun Dec 20 21:00:44 2020 +0100
+
+    - showQuestTrackingTooltips has been removed...
+
+commit 8dd6811cc357542f8f6af23621043910eaf19ae5
 Author: Tercio Jose <terciob19@hotmail.com>
-Date:   Fri Nov 27 17:03:50 2020 -0300
+Date:   Sun Dec 20 12:21:24 2020 -0300
 
-    Fix script, update framework
+    framework updates
 
-commit 3a9ae43cfc9654feb05c46d0724a40e370314566
+commit 8dd6811cc357542f8f6af23621043910eaf19ae5
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Sun Dec 20 12:21:24 2020 -0300
+
+    framework updates
+
+commit a2126aeba7748521b975506e17cc821bc9c5c1ff
 Author: Continuity <continuity@gmx.net>
-Date:   Fri Nov 27 13:07:58 2020 +0100
+Date:   Fri Dec 18 12:08:07 2020 +0100
 
-    - another round of condemn
+    do not show name on personal bar
 
-commit 3723223379d6e18b538d476081cd49914e4bd555
+commit 986404fb2161da166b7eed645f157b70ed412be2
 Author: Continuity <continuity@gmx.net>
-Date:   Fri Nov 27 12:48:37 2020 +0100
+Date:   Fri Dec 18 11:42:38 2020 +0100
 
-    - fixing Condemn execute for warriors
+    - no longer used here
+
+commit 49d1780dfe354a0c8ada41698653ceed4507554f
+Author: Continuity <continuity@gmx.net>
+Date:   Thu Dec 17 14:00:33 2020 +0100
+
+    - refresh when changing these options
+
+commit d4b1a86fd7c589850fe410e362f3aecb0c0332e5
+Author: Continuity <continuity@gmx.net>
+Date:   Thu Dec 17 13:18:08 2020 +0100
+
+    - update texts after changing size
+
+commit f6b6181e670387346b066627b65f72d54b742f78
+Author: Tercio Jose <terciob19@hotmail.com>
+Date:   Sat Dec 12 18:11:13 2020 -0300
+
+    Framework updates
+
+commit a71ad45ab8e3cd354fa9bfc08e57550261b3284f
+Author: Continuity <continuity@gmx.net>
+Date:   Sat Dec 12 19:14:01 2020 +0100
+
+    - ensure execute indicator size is updated properly
+
+commit 1e57f4eb24d70dbcfe2f20df0ee939cb881aa911
+Author: Continuity <continuity@gmx.net>
+Date:   Sat Dec 12 19:08:47 2020 +0100
+
+    - don't show execute on units you cannot attack
+
+commit 71dca0a919a64707c51191f4876a44b4442693fb
+Author: Continuity <continuity@gmx.net>
+Date:   Wed Dec 9 13:17:13 2020 +0100
+
+    - unregister blizzard widgets to omit errors
+
+commit 93c050e1e1cd6e523f4fd98c4d98af1e85cfb6b6
+Author: Continuity <continuity@gmx.net>
+Date:   Tue Dec 8 20:12:06 2020 +0100
+
+    - fixing double special buff
+
+commit db58b03a3b9448768616c3ee314c1bef6cd8637c
+Author: Continuity <continuity@gmx.net>
+Date:   Tue Dec 8 20:10:44 2020 +0100
+
+    - attempt to fix GetScaledRect errors
+
+commit 5560c673f0689c303b3e6242610066b189885449
+Author: Continuity <continuity@gmx.net>
+Date:   Fri Dec 4 21:27:27 2020 +0100
+
+    - adding "auras per row" option for buff frame 2
+
+commit 9ea40ce639cc7141628b7f5f4e4bff9968c79d74
+Author: Continuity <continuity@gmx.net>
+Date:   Fri Dec 4 21:10:48 2020 +0100
+
+    - reworking CVar storing
+
+commit 9c4215be64fd5d4259f6f2005478e61fe7f9f6c5
+Author: Continuity <continuity@gmx.net>
+Date:   Fri Dec 4 09:45:50 2020 +0100
+
+    - ensure global width/heigth settings are stored separately and not refreshed from one value
+
+commit 0a6aaab6d39b4f74cea378830a85e1c7ba0a3cd2
+Author: Continuity <continuity@gmx.net>
+Date:   Tue Dec 1 00:13:39 2020 +0100
+
+    - honoring personal bar buff tracking settings
 
